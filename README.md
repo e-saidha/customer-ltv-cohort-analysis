@@ -61,10 +61,6 @@ Customers were grouped by acquisition month and retention matrices were construc
 - Matplotlib
 - Lifetimes
 
-## Results
-
-![Cohort Heatmap](images/cohort_heatmap.png)
-
 ## Future Improvements
 
 - Add customer segmentation using RFM analysis
